@@ -92,11 +92,12 @@ My contributions to BIM-RISE include:
 BIM-RISE demonstrates how BIM can be used for more than design coordination and quantity take-off. It shows how digital building information can support sustainability, circular-economy planning, material recovery, environmental assessment, and strategic project decision-making.
 
 The project contributes to the digital transformation of the architecture, engineering, and construction industry by connecting BIM, environmental data, analytics, and visualization within one integrated decision-support workflow.
-
 **The BIM-RISE Framework:**
 <img width="1280" height="720" alt="Figure_3" src="https://github.com/user-attachments/assets/36cc0fea-818c-4ead-a567-5866c807c0e6" />
 
 **Dashboard Demo:**
+https://github.com/user-attachments/assets/6b3a554e-3933-4ea0-a15c-d803c3b95941
+
 
 
 
