@@ -93,10 +93,10 @@ BIM-RISE demonstrates how BIM can be used for more than design coordination and 
 
 The project contributes to the digital transformation of the architecture, engineering, and construction industry by connecting BIM, environmental data, analytics, and visualization within one integrated decision-support workflow.
 
-The BIM-RISE framework:
+##The BIM-RISE framework:
 <img width="1280" height="720" alt="Figure_3" src="https://github.com/user-attachments/assets/36cc0fea-818c-4ead-a567-5866c807c0e6" />
 
-Dashbords Demo:
+##Dashbords Demo:
 
 
 
