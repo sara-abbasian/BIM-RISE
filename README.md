@@ -59,33 +59,6 @@ The BIM-RISE framework provides a structured workflow in which:
 * Data-driven sustainability indicators
 * Support for circular construction and material recovery
 
-## Intended Users
-
-BIM-RISE is designed to support professionals involved in construction, demolition, infrastructure, and sustainability planning, including:
-
-* General contractors
-* Demolition contractors
-* BIM and VDC coordinators
-* Project managers
-* Designers and engineers
-* Building owners
-* Sustainability consultants
-* Waste-management companies
-* Recycling and material-recovery facilities
-* Municipal and infrastructure organizations
-
-## Tools and Technologies
-
-The project incorporates tools and technologies such as:
-
-* Autodesk Revit for BIM modelling and material information
-* Power BI for dashboard development and data visualization
-* Python for data processing and analysis
-* Microsoft Excel for data organization and calculations
-* IFC for open BIM data exchange
-* Speckle for BIM-data connectivity and interoperability
-* GIS tools for spatial and transportation-related assessment
-
 ## Expected Benefits
 
 BIM-RISE can help project teams:
@@ -120,4 +93,12 @@ BIM-RISE demonstrates how BIM can be used for more than design coordination and 
 
 The project contributes to the digital transformation of the architecture, engineering, and construction industry by connecting BIM, environmental data, analytics, and visualization within one integrated decision-support workflow.
 
+The BIM-RISE framework:
 <img width="1280" height="720" alt="Figure_3" src="https://github.com/user-attachments/assets/36cc0fea-818c-4ead-a567-5866c807c0e6" />
+
+Dashbords Demo:
+
+
+
+
+
