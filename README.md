@@ -1,5 +1,10 @@
 # BIM-RISE
 BIM-driven decision-support framework for construction and demolition waste estimation, material recovery planning, and environmental impact assessment.
+
+**Dashboard Demo:**
+
+https://github.com/user-attachments/assets/6b3a554e-3933-4ea0-a15c-d803c3b95941
+
 ## Project Overview
 
 BIM-RISE is a Building Information Modelling–based decision-support framework developed to improve the planning and management of construction and demolition materials. The project addresses a common challenge in the construction industry: decisions about material reuse, recycling, transportation, and disposal are often made too late, when opportunities to reduce waste, cost, and environmental impact have already been limited.
@@ -23,6 +28,10 @@ The main objectives of BIM-RISE are to:
 * Present complex project information through interactive Power BI dashboards.
 * Improve communication and coordination among project stakeholders.
 * Support circular-economy strategies in the architecture, engineering, and construction industry.
+
+* **The BIM-RISE Framework:**
+<img width="1280" height="720" alt="Figure_3" src="https://github.com/user-attachments/assets/36cc0fea-818c-4ead-a567-5866c807c0e6" />
+
 
 ## Problem Addressed
 
@@ -93,12 +102,8 @@ BIM-RISE demonstrates how BIM can be used for more than design coordination and 
 
 The project contributes to the digital transformation of the architecture, engineering, and construction industry by connecting BIM, environmental data, analytics, and visualization within one integrated decision-support workflow.
 
-**The BIM-RISE Framework:**
-<img width="1280" height="720" alt="Figure_3" src="https://github.com/user-attachments/assets/36cc0fea-818c-4ead-a567-5866c807c0e6" />
 
-**Dashboard Demo:**
 
-https://github.com/user-attachments/assets/6b3a554e-3933-4ea0-a15c-d803c3b95941
 
 
 
